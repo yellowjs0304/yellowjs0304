@@ -1,6 +1,6 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyun95%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjs0304%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
 </div>
 
@@ -18,13 +18,13 @@
 * [Landmark-based Search for Vision-and-Language Navigation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301650)-2019.12 KSC Conference   
 * [AnoVid: A Deep Neural Network-Based Tool for Video Annotation](waiting..)-2020.08, Journal of KMMS
 
-## site
-* [Blog](https://yjs-program.tistory.com/)   
+## Blog   
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/)
+
+## Contact   
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
 
 <div align=center>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/anuraghazra/github-readme-stats)   
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
 </div>
 
