@@ -23,8 +23,3 @@
 
 ## Contact   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
-
-<div align=center> 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/anuraghazra/github-readme-stats)   
-</div>
-
