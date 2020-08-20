@@ -4,8 +4,6 @@
 
 </div>
 
-# Profile
----
 ## My Projects   
 * [PAPA](https://github.com/yellowjs0304/PAPA)   
  
