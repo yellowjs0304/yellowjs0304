@@ -14,7 +14,7 @@
 * [Real-Time Visual Grounding for Natural Language Instructions with Deep Neural Network](https://www.eiric.or.kr/literature/ser_view.php?searchCate=literature&SnxGubun=INEN&mode=total&literature=Y&SnxGubun=INME&gu=INME001G0&cmd=qryview&SnxIndxNum=223651&q1_yy=2019&q1_mm=05&rownum=2&f1=MN&q1=Jisu%20Hwang&totalCnt=3)-2019.05, KIPS Conference   
 * [LVLN : A Landmark-Based Deep Neural Network Model for Vision-and-Language Navigation](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3703348)-2019.09, Journal of KIPS(KTSDE)    
 * [Landmark-based Search for Vision-and-Language Navigation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301650)-2019.12 KSC Conference   
-* [AnoVid: A Deep Neural Network-Based Tool for Video Annotation](http://www.koreascience.kr/article/JAKO202024852036275.pdf)-2020.08, Journal of KMMS   
+* [AnoVid: A Deep Neural Network-Based Tool for Video Annotation](https://www.koreascience.or.kr/article/JAKO202024852036275.page)-2020.08, Journal of KMMS   
 
 ## Blog   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/)
