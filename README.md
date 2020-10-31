@@ -6,7 +6,9 @@
 
 ## My Projects   
 * [PAPA](https://github.com/yellowjs0304/PAPA)   
- 
+* [AI_Homework :: YOLO, FRCNN Character Detection](https://github.com/yellowjs0304/homework_2)   
+* [AI_Homework :: Seq2Seq Video Captioning](https://github.com/yellowjs0304/homework_4)   
+
 
 ## My Papers   
 * [Deep Reinforcement Learning for Visual Dialogue Agents](https://www.koreascience.or.kr/article/CFKO201826259815437.page)-2018.05, KIPS Conference    
