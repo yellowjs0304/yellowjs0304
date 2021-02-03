@@ -4,6 +4,14 @@
 
 </div>
 
+## Interests   
+* Computer Vision   
+* Multi-modal Task   
+* Natural Language Process   
+* Machine Learning   
+* Vision-and-Language Navigation   
+
+
 ## My Projects   
 * [PAPA](https://github.com/yellowjs0304/PAPA)   
 * [AI_Homework :: YOLO, FRCNN Character Detection](https://github.com/yellowjs0304/homework_2)   
