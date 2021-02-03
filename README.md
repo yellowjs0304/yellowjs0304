@@ -17,6 +17,8 @@
 * [LVLN : A Landmark-Based Deep Neural Network Model for Vision-and-Language Navigation](http://kiss.kstudy.com/thesis/thesis-view.asp?key=3703348)-2019.09, Journal of KIPS(KTSDE)    
 * [Landmark-based Search for Vision-and-Language Navigation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301650)-2019.12 KSC Conference   
 * [AnoVid: A Deep Neural Network-Based Tool for Video Annotation](https://www.koreascience.or.kr/article/JAKO202024852036275.page)-2020.08, Journal of KMMS   
+* [Joint Multimodal Embedding and Backtracking Search in Vision-and-Language Navigation](https://www.mdpi.com/1424-8220/21/3/1012)-2021.02, Sensors   
+
 
 ## Blog   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/)
