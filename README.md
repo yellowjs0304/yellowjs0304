@@ -1,6 +1,3 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjs0304&count_bg=%23198BD7&title_bg=%231C4E92&icon=python.svg&icon_color=%23FCFFFB&title=hits&edge_flat=false"/></a>
-
-
 ## Interests   
 * Computer Vision   
 * Multi-modal Task   
@@ -48,3 +45,7 @@
 
 ## Contact   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
+
+
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjs0304&count_bg=%23198BD7&title_bg=%231C4E92&icon=python.svg&icon_color=%23FCFFFB&title=hits&edge_flat=false"/></a>
