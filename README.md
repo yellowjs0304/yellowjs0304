@@ -16,6 +16,7 @@
 * [AI_Homework :: Seq2Seq Video Captioning](https://github.com/yellowjs0304/homework_4)   
 * [Landmark based VLN](https://github.com/yellowjs0304/LandmarkVLN)   
 * [Joint Multimodal Embedding based VLN](https://github.com/yellowjs0304/JMEBSVLN)   
+* [Pancreas-CT Segmentation Work(by.Unet)](https://github.com/yellowjs0304/PancreasUnet)   
    
    
 
