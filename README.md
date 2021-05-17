@@ -37,7 +37,7 @@
 * [Transformer based Embedding Model](https://yjs-program.tistory.com/category/Paper%20Reading/Transformer%20based%20Embedding%20Model)
 * [VLN](https://yjs-program.tistory.com/category/Paper%20Reading/Vision%20and%20Language%20Navigation%28VLN%29)   
 * [Dialogue System](https://yjs-program.tistory.com/category/Paper%20Reading/Dialogue%20System)   
-* [Pytorch Deep learning](https://yjs-program.tistory.com/category/%EB%94%A5%EB%9F%AC%EB%8B%9D/Pytorch%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EC%B4%88)
+* [Pytorch Deep learning](https://github.com/yellowjs0304/3-min-pytorch_study)
    
 
 ## Blog   
