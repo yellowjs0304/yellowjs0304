@@ -1,3 +1,8 @@
+## 🐱‍👤Blog & Contact🐱‍👤    
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/) |
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
+
+
 ## Interests   
 * Computer Vision   
 * Multi-modal Task   
@@ -38,16 +43,7 @@
 * [VLN](https://yjs-program.tistory.com/category/Paper%20Reading/Vision%20and%20Language%20Navigation%28VLN%29)   
 * [Dialogue System](https://yjs-program.tistory.com/category/Paper%20Reading/Dialogue%20System)   
 * [Pytorch Deep learning](https://github.com/yellowjs0304/3-min-pytorch_study)
-* [Coding Test](https://github.com/yellowjs0304/Coding_test)
-   
-
-## Blog   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/)
-   
-   
-
-## Contact   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
+* [Coding Test](https://github.com/yellowjs0304/Coding_test)   
 
 
 <div align=center>
