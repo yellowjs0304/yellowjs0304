@@ -45,6 +45,7 @@
 * [Pytorch Deep learning](https://github.com/yellowjs0304/3-min-pytorch_study)
 * [Coding Test](https://github.com/yellowjs0304/Coding_test)   
 * [Tensorflow Computer Vision](https://github.com/yellowjs0304/tf_computer_vision)
+* [T-academy](https://github.com/yellowjs0304/tacademy_study)
 
 
 <div align=center>
