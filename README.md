@@ -42,6 +42,7 @@
 * [Transformer based Embedding Model](https://yjs-program.tistory.com/category/Paper%20Reading/Transformer%20based%20Embedding%20Model)
 * [VLN](https://yjs-program.tistory.com/category/Paper%20Reading/Vision%20and%20Language%20Navigation%28VLN%29)   
 * [Dialogue System](https://yjs-program.tistory.com/category/Paper%20Reading/Dialogue%20System)   
+* [Scene Text Recognition(OCR)](https://yjs-program.tistory.com/category/Paper%20Reading/Scene%20Text%20Recognition%28OCR%29)   
 * [Pytorch Deep learning](https://github.com/yellowjs0304/3-min-pytorch_study)
 * [Coding Test](https://github.com/yellowjs0304/Coding_test)   
 * [Tensorflow Computer Vision](https://github.com/yellowjs0304/tf_computer_vision)
