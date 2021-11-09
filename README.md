@@ -6,10 +6,10 @@
 ## Interests   
 * Computer Vision   
 * Multi-modal Task   
-* Natural Language Process   
+* Vision-and-Language Navigation 
 * OCR(Scene Text Recognition)
+* Natural Language Process   
 * Machine Learning   
-* Vision-and-Language Navigation   
 * Robot Operating System(ROS)   
 * Reinforcement Learning
    
