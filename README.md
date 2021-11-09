@@ -7,6 +7,7 @@
 * Computer Vision   
 * Multi-modal Task   
 * Natural Language Process   
+* OCR(Scene Text Recognition)
 * Machine Learning   
 * Vision-and-Language Navigation   
 * Robot Operating System(ROS)   
