@@ -34,7 +34,7 @@
 * [Landmark-based Search for Vision-and-Language Navigation](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301650)-2019.12 KSC Conference   
 * [AnoVid: A Deep Neural Network-Based Tool for Video Annotation](https://www.koreascience.or.kr/article/JAKO202024852036275.page)-2020.08, Journal of KMMS   
 * [시각-언어 이동을 위한 다중 모달 공동 임베딩과 역추적 탐색](http://library.kyonggi.ac.kr/search/detail/CATTOT000000675444)- Master's thesis   
-* [Joint Multimodal Embedding and Backtracking Search in Vision-and-Language Navigation](https://www.mdpi.com/1424-8220/21/3/1012)-2021.02, Sensors   
+* [Joint Multimodal Embedding and Backtracking Search in Vision-and-Language Navigation](https://www.mdpi.com/1424-8220/21/3/1012)-2021.02, Journal of Sensors(SCIE)   
    
    
 
