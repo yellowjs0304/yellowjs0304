@@ -1,4 +1,4 @@
-## 🐱‍🐉Blog & Contact🐱‍🚀   
+## 👾Blog & Contact👾   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/) |
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
 
