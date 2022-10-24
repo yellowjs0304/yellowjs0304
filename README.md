@@ -1,7 +1,9 @@
 ## 👾Blog & Contact👾   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/) |
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)   
-🖐️I'm interested in **CV, Multi-modal tasks, OCR, NLP, ROS, RL, ML**
+🖐️I'm interested in **CV, Multi-modal tasks, OCR, NLP, ROS, RL, ML**   
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats)
 
 ## My Projects   
 * [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
@@ -41,4 +43,3 @@
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjs0304&count_bg=%23198BD7&title_bg=%231C4E92&icon=python.svg&icon_color=%23FCFFFB&title=hits&edge_flat=false"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats)
