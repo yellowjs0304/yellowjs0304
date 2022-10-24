@@ -1,18 +1,7 @@
 ## 👾Blog & Contact👾   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/) |
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)
-
-
-## Interests   
-* Computer Vision   
-* Multi-modal Task   
-* Vision-and-Language Navigation 
-* OCR(Scene Text Recognition)
-* Natural Language Process   
-* Machine Learning   
-* Robot Operating System(ROS)   
-* Reinforcement Learning
-   
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)   
+🖐️I'm interested in **CV, Multi-modal tasks, OCR, NLP, ROS, RL, ML**
 
 ## My Projects   
 * [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
@@ -25,7 +14,6 @@
 * [Pancreas-CT Segmentation(by.Unet)](https://github.com/yellowjs0304/PancreasUnet)   
    
    
-
 ## My Papers   
 * [Deep Reinforcement Learning for Visual Dialogue Agents](https://www.koreascience.or.kr/article/CFKO201826259815437.page)-2018.05, KIPS Conference    
 * [Deep Reinforcement Learning for Optimizing Visual Questions](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07528733&language=ko_KR)-2018.09, Journal of ICROS   
@@ -52,3 +40,5 @@
 
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyellowjs0304&count_bg=%23198BD7&title_bg=%231C4E92&icon=python.svg&icon_color=%23FCFFFB&title=hits&edge_flat=false"/></a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats)
