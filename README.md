@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)   
 🖐️I'm interested in **CV, Multi-modal tasks, OCR, NLP, ROS, RL, ML**   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats) -->
 
 ## My Projects   
 * [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
