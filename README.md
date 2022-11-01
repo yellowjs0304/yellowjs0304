@@ -6,6 +6,7 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats) -->
 
 ## My Projects   
+* [Synthetic Document Generator](https://github.com/yellowjs0304/DocGenerator_pub)
 * [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
 * [PAPA app Project](https://github.com/yellowjs0304/PAPA)   
 * [Places365 with Misaeng](https://github.com/yellowjs0304/Places365misaeng)   
