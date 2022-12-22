@@ -7,15 +7,15 @@
 
 ## My Projects   
 * [Synthetic Document Generator](https://github.com/yellowjs0304/DocGenerator_pub)
-* [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
-* [PAPA app Project](https://github.com/yellowjs0304/PAPA)   
-* [Places365 with Misaeng](https://github.com/yellowjs0304/Places365misaeng)   
 * [AI_Homework :: YOLO, FRCNN Character Detection](https://github.com/yellowjs0304/homework_2)   
 * [AI_Homework :: Seq2Seq Video Captioning](https://github.com/yellowjs0304/homework_4)   
 * [Landmark based VLN](https://github.com/yellowjs0304/LandmarkVLN)   
 * [Joint Multimodal Embedding based VLN](https://github.com/yellowjs0304/JMEBSVLN)   
+* [Places365 with Misaeng](https://github.com/yellowjs0304/Places365misaeng)   
+* [PAPA app Project](https://github.com/yellowjs0304/PAPA)   
 * [Pancreas-CT Segmentation(by.Unet)](https://github.com/yellowjs0304/PancreasUnet)   
-   
+* [Messenger Robot System](https://github.com/yellowjs0304/MSB)   
+
    
 ## My Papers   
 * [Deep Reinforcement Learning for Visual Dialogue Agents](https://www.koreascience.or.kr/article/CFKO201826259815437.page)-2018.05, KIPS Conference    
