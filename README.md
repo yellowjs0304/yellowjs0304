@@ -1,8 +1,8 @@
 ## 👾Blog & Contact👾   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yjs-program.tistory.com/)](https://yjs-program.tistory.com/) |
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yellowjs0304@gmail.com)](mailto:yellowjs0304@gmail.com)   
-🖐️I'm interested in **CV, Multi-modal tasks, OCR, NLP, ROS, RL, ML**   
-
+🖐️I'm interested in **Document Ai, Multi-modal tasks(CV+NLP), OCR, RL, ML**   
+:desktop_computer: Skills : **Python, Pytorch, OpenCV, Docker, Triton, Tensorflow**
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowjs0304)](https://github.com/yellowjs0304/github-readme-stats) -->
 
 ## My Projects   
