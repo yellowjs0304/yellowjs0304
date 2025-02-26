@@ -5,8 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jisu-hwang-491448229/) 
 
 
-🖐️ **Interests:** Document AI, Multi-modal Tasks (CV+NLP), OCR, RL, ML  
-💼 **Current:** Working at **AgileSoDA** (2021.08 ~)  
+🖐️ **Interests:** Document AI, Multi-modal Tasks (CV+NLP), OCR, RL, ML   
 
 ## 🛠 Skills
 - **Programming:** Python  
