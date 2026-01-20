@@ -5,12 +5,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jisu-hwang-491448229/) 
 
 
-🖐️ **Interests:** Document AI, Multi-modal Tasks (CV+NLP), OCR, CV, RL   
+🖐️ **Interests:** VLM, Document AI, Multi-modal Tasks (CV+NLP), OCR, CV, RL   
 
 ## 🛠 Skills
 - **Programming:** Python  
 - **Frameworks & Libraries:** PyTorch, OpenCV, TensorFlow
-- **Deployment & Serving:** Docker, Triton
+- **Deployment & Serving:** Docker, Triton, vLLM
 
 ## 📌 Work Experience
 
@@ -22,8 +22,9 @@
 - **DLA**: Document Layout Analysis  
 
 ### 🚀 Serving
-- Model deployment using **Docker** and **Triton**  
-- API development with **FastAPI**  
+- LangGraph based VLM workflow
+- Model deployment using **Docker** and **Triton** and **vLLM**
+- API development with **FastAPI**
 
 ### 🔧 Others
 - **Synthetic Data Generation** (Image Processing)  
